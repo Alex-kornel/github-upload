@@ -7,12 +7,16 @@ namespace lab_02a
         static void Main(string[] args)
         {
             T1();
+            T2();
             
         }
         public static void T1()
         {
             
         }
+        public static void T2()
+        {
 
+        }
     }
 }
